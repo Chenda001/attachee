@@ -1,7 +1,8 @@
 # attachee
 #🔐 Django User Management System
 
-This is a Django project in progress. It will allow users to register, log in, verify their accounts, manage their profiles, and be managed by an admin.
+This is a Django project in progress. 
+It will allow users to register, log in, verify their accounts, manage their profiles, and be managed by an admin.
 
 ---
 
@@ -24,8 +25,7 @@ This is a Django project in progress. It will allow users to register, log in, v
 ---
 
 ## 📂1. Project Setup 
-
-so i started by by setting up my project by by the name user-mgmt and create an app and named it account. to ensure that django recognises the app, i added it in the installed apps in the user-mgmt/setting.py.
+I started by by setting up my project by by the name user-mgmt and create an app and named it account. to ensure that django recognises the app, i added it in the installed apps in the user-mgmt/setting.py.
 
 
 
