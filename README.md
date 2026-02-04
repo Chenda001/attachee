@@ -60,5 +60,3 @@ This project includes a simple user authentication system using Django's built-i
 ## 📃 License
 
 For educational use only.
-
-Seen by Rebecca Gitau at 12:57 PM.
